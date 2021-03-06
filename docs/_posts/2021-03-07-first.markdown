@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "First"
+date:   2021-03-07 00:25:00 +0800
+categories: diary
+---
+第一篇，放在这里提醒自己要早睡早起吧。。
